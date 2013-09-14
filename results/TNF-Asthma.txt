@@ -1,0 +1,28 @@
+
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Ginkgo_biloba      1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Tripterygium_wilfordii  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Cordyceps_sinensis  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Magnolia_officinalis  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Areca_catechu      1
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Salvia_miltiorrhiza  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Curcuma_longa      1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Cannabis_sativa    1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Panax_ginseng      1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Artemisia_vulgaris  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Glycyrrhiza_glabra  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Houttuynia_cordata  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Datura_stramonium  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Ricinus_communis   1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Sophora_flavescens  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Aloe_vera          1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Cervus_unicolor    1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Pisolithus_tinctorius  1
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Asparagus_officinalis  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Euphorbia_hirta    1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Chenopodium_album  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Eucalyptus_globulus  1
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Perilla_frutescens  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Pinellia_ternata   1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Rosa_rugosa        1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Sinapis_alba       1	MATCH
+

@@ -1,0 +1,3 @@
+http://www.biotcm.org/uniprot/P14780                                            Simvastatin                                                                     http://www.biotcm.org/herb/Ginkgo_biloba	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Simvastatin                                                                     http://www.biotcm.org/herb/Atractylodes_lancea	MATCH
+

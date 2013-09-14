@@ -1,0 +1,24 @@
+
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Ginkgo_biloba	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Humulus_lupulus	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Tripterygium_wilfordii	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Scutellaria_baicalensis	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Apis_mellifera	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Coriolus_versicolor	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Curcuma_longa	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Cannabis_sativa
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Camellia_sinensis
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Allium_sativum	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Zingiber_officinale	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Ganoderma_lucidum	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Phellodendron_amurense	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Ligustrum_lucidum	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Angelica_gigas	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Allium_cepa	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Glycyrrhiza_uralensis	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Fagopyrum_cymosum	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Gleditsia_sinensis
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Punica_granatum	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Rabdosia_rubescens	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                    http://www.biotcm.org/herb/Belamcanda_chinensis	MATCH
+http://www.biotcm.org/uniprot/P05231                                            Bicalutamide                                                                      

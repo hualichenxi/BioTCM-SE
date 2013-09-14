@@ -1,0 +1,17 @@
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Tripterygium_wilfordii  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Coriolus_versicolor  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Curcuma_longa      1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Panax_ginseng      1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Andrographis_paniculata  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Camellia_sinensis  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Glycine_max        1
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Allium_sativum     1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Datura_stramonium  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Zingiber_officinale  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Citrus_reticulata  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Saussurea_lappa    1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Glycyrrhiza_uralensis  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Stellera_chamaejasme  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Camptotheca_acuminata  1	MATCH
+http://www.biotcm.org/uniprot/P01375                                          http://www.biotcm.org/herb/Acanthopanax_giraldii  1	MATCH
+

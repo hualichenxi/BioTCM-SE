@@ -1,0 +1,7 @@
+
+http://www.biotcm.org/uniprot/P01579                                            Simvastatin                                                                     http://www.biotcm.org/herb/Ginkgo_biloba      1	MATCH
+http://www.biotcm.org/uniprot/P01579                                            Simvastatin                                                                     http://www.biotcm.org/herb/Magnolia_officinalis  1	MATCH
+http://www.biotcm.org/uniprot/P01579                                            Simvastatin                                                                     http://www.biotcm.org/herb/Salvia_miltiorrhiza  1	MATCH
+http://www.biotcm.org/uniprot/P01579                                            Simvastatin                                                                     http://www.biotcm.org/herb/Curcuma_longa      1 MATCH
+http://www.biotcm.org/uniprot/P01579                                            Simvastatin                                                                     http://www.biotcm.org/herb/Allium_sativum     1	MATCH
+

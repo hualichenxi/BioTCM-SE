@@ -1,0 +1,24 @@
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Ginkgo_biloba      1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Gastrodia_elata    1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Scutellaria_baicalensis  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Salvia_miltiorrhiza  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Apis_mellifera     1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Curcuma_longa      1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Cannabis_sativa    1
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Panax_ginseng      1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Camellia_sinensis  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Panax_notoginseng  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Centella_asiatica  1
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Polygala_tenuifolia  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Zingiber_officinale  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Lycium_barbarum    1 MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Prunus_persica     1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Hypericum_perforatum  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Carica_papaya      1
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Angelica_gigas     1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Glycyrrhiza_uralensis  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Polygonum_multiflorum  1
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Evodia_rutaecarpa  1	MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Papaver_somniferum  1 MATCH
+http://www.biotcm.org/uniprot/P14780                                            Glucosamine                                                                     http://www.biotcm.org/herb/Nardostachys_jatamansi  1
+

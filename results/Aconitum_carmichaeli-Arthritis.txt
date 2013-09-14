@@ -1,0 +1,25 @@
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/P35228                                           http://www.biotcm.org/entrezgene/NOS2                   ubiquitin-specific protease activity	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/P29474                                           http://www.biotcm.org/entrezgene/NOS3                   urate oxidase activity	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/P00480                                           http://www.biotcm.org/entrezgene/OTC                    insulin-activated receptor activity
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/P29475                                           http://www.biotcm.org/entrezgene/NOS1                   ubiquitin-protein ligase activity	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/Q9ULW8                                           http://www.biotcm.org/entrezgene/PADI3                  interaction with symbiont	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/O76082                                           http://www.biotcm.org/entrezgene/SLC22A5                catecholamine metabolic process	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/Q9H015                                           http://www.biotcm.org/entrezgene/SLC22A4                melanin biosynthetic process from tyrosine	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/P12724                                           http://www.biotcm.org/entrezgene/RNASE3                 cell wall chitin metabolic process	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/O76074                                           http://www.biotcm.org/entrezgene/PDE5A                  phospholipid biosynthetic process	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/Q9Y663                                           http://www.biotcm.org/entrezgene/HS3ST3A1               adaxial/abaxial pattern specification
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/Q9BZX2                                           http://www.biotcm.org/entrezgene/UCK2                   ventral midline determination	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/Q9Y275                                           http://www.biotcm.org/entrezgene/TNFSF13B               positive regulation of transcription from RNA polymerase II promoter during meiosis	MATCH
+
+http://www.biotcm.org/disease/Arthritis         http://www.biotcm.org/uniprot/Q960X8                                           http://www.biotcm.org/entrezgene/Hrs                    GAC codon-amino acid adaptor activity	
